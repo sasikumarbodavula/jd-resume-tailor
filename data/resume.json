@@ -1,0 +1,215 @@
+{
+  "name": "ALEX KUMAR",
+  "title": "GenAI Engineer (Entry-Level) | LLM, RAG & Agentic AI Developer",
+  "contact": "alex.kumar@example.com | +91-90000-00000 | Hyderabad, India | linkedin.com/in/alex-kumar-demo",
+  "summary": "Entry-level GenAI Engineer (B.Tech CSE – AI & ML, 2026) with hands-on experience building LLM-powered applications, Retrieval-Augmented Generation (RAG) pipelines and agentic AI workflows using Python, LangChain, LangGraph, OpenAI and Anthropic APIs. Completed a Deep Learning internship, contributing to a team-built computer vision and GPT-4o-mini application (YOLOv5, Flask, React.js). Skilled in prompt engineering, REST API development (Flask, FastAPI), Transformers, asyncio and Git-based workflows; eager to contribute to fast-paced AI product teams.",
+  "skills": [
+    {
+      "category": "Generative AI & LLMs",
+      "items": [
+        "Generative AI",
+        "Large Language Models (LLMs)",
+        "OpenAI API",
+        "Anthropic Claude API",
+        "Gemini API",
+        "Prompt Engineering (Zero-shot, Few-shot, Chain-of-Thought)",
+        "System Prompt Design",
+        "Function Calling",
+        "Structured Outputs",
+        "Streaming Responses",
+        "Tokenization",
+        "Context Window Management",
+        "Model Selection",
+        "Cost Optimization"
+      ]
+    },
+    {
+      "category": "RAG & Vector Databases",
+      "items": [
+        "RAG Pipeline Development",
+        "Vector Embeddings",
+        "Semantic Search",
+        "Chroma",
+        "Pinecone",
+        "Qdrant"
+      ]
+    },
+    {
+      "category": "Agentic AI & Frameworks",
+      "items": [
+        "Agentic AI",
+        "AI Agents",
+        "LangChain",
+        "LangGraph",
+        "ReAct Reasoning",
+        "Tool Use",
+        "Decision Loops",
+        "State Management"
+      ]
+    },
+    {
+      "category": "Programming & Backend",
+      "items": [
+        "Python",
+        "Asyncio",
+        "Flask",
+        "FastAPI",
+        "REST APIs",
+        "JSON",
+        "HTTP Methods",
+        "Requests Library",
+        "Authentication (API Keys, OAuth)",
+        "Rate Limiting",
+        "Retry Logic (Exponential Backoff)",
+        "Error Handling"
+      ]
+    },
+    {
+      "category": "Deep Learning, ML & Data Libraries",
+      "items": [
+        "Deep Learning",
+        "Transformers",
+        "NumPy",
+        "Pandas",
+        "YOLOv5",
+        "Object Detection",
+        "Image Preprocessing",
+        "Label Studio"
+      ]
+    },
+    {
+      "category": "Web & Dev Tools",
+      "items": [
+        "React.js",
+        "Git",
+        "GitHub",
+        "pip",
+        "Virtual Environments",
+        "VS Code"
+      ]
+    }
+  ],
+  "education": "Bachelor of Technology (B.Tech) in Computer Science & Engineering – Artificial Intelligence & Machine Learning, Example Institute of Technology, Hyderabad (2022 – 2026)",
+  "certifications": [
+    "Generative AI Fundamentals – Example Learning Platform (2025)",
+    "Prompt Engineering for Everyone – Example Academy (2025)"
+  ],
+  "experience_heading": "Example Tech Pvt. Ltd, Sample City – Deep Learning Intern (Jan 2026 – Mar 2026) | Project: Vehicle Damage Analysis & Repair Cost Estimation (team of 4)",
+  "experience_tech_stack": [
+    "Python",
+    "YOLOv5",
+    "OpenAI GPT-4o-mini API",
+    "Flask",
+    "React.js",
+    "Label Studio",
+    "REST APIs"
+  ],
+  "experience_bullets": [
+    {
+      "id": "exp1_b1",
+      "text": "Contributed to a YOLOv5-based vehicle damage detection system across 5 damage classes, trained on 4,000+ images annotated in Label Studio.",
+      "skills_used": [
+        "YOLOv5",
+        "Object Detection",
+        "Label Studio",
+        "Deep Learning"
+      ]
+    },
+    {
+      "id": "exp1_b2",
+      "text": "Developed a computer vision pipeline with image preprocessing and GPT-4o-mini integration for automated damage severity classification and AI-driven repair cost estimation.",
+      "skills_used": [
+        "Computer Vision",
+        "Image Preprocessing",
+        "GPT-4o-mini",
+        "OpenAI API",
+        "Python"
+      ]
+    },
+    {
+      "id": "exp1_b3",
+      "text": "Integrated the OpenAI GPT-4o-mini API with a Python Flask backend and deployed a full-stack React.js web application delivering real-time damage analysis with structured cost estimates.",
+      "skills_used": [
+        "OpenAI API",
+        "GPT-4o-mini",
+        "Python",
+        "Flask",
+        "React.js"
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "name": "AI-Powered Research Assistant – RAG-based Document Q&A System (Personal Project)",
+      "bullets": [
+        {
+          "id": "proj1_b1",
+          "text": "Built an end-to-end RAG pipeline in Python using vector embeddings and Chroma/Qdrant vector databases for semantic retrieval.",
+          "skills_used": [
+            "RAG Pipeline Development",
+            "Python",
+            "Vector Embeddings",
+            "Chroma",
+            "Qdrant",
+            "Vector Databases",
+            "Semantic Search"
+          ]
+        },
+        {
+          "id": "proj1_b2",
+          "text": "Integrated OpenAI and Anthropic APIs via LangChain and applied prompt engineering to produce grounded, citation-backed responses.",
+          "skills_used": [
+            "OpenAI API",
+            "Anthropic Claude API",
+            "LangChain",
+            "Prompt Engineering"
+          ]
+        }
+      ],
+      "tech_stack": [
+        "Python",
+        "LangChain",
+        "RAG",
+        "Vector Embeddings",
+        "Chroma/Qdrant",
+        "OpenAI API",
+        "Anthropic API",
+        "Prompt Engineering"
+      ]
+    },
+    {
+      "name": "Multi-Step Autonomous Research Agent – LangGraph Agentic Workflow (Personal Project)",
+      "bullets": [
+        {
+          "id": "proj2_b1",
+          "text": "Built a stateful agent in LangGraph with ReAct reasoning, conditional routing, decision loops and function calling.",
+          "skills_used": [
+            "LangGraph",
+            "AI Agents",
+            "ReAct Reasoning",
+            "Decision Loops",
+            "Function Calling",
+            "State Management"
+          ]
+        },
+        {
+          "id": "proj2_b2",
+          "text": "Used Python asyncio for concurrent API calls to improve task execution speed.",
+          "skills_used": [
+            "Python",
+            "Asyncio"
+          ]
+        }
+      ],
+      "tech_stack": [
+        "Python",
+        "LangGraph",
+        "Agentic AI",
+        "Asyncio",
+        "Prompt Engineering",
+        "Function Calling",
+        "State Management"
+      ]
+    }
+  ]
+}

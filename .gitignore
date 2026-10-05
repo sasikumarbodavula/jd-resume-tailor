@@ -1,0 +1,21 @@
+# secrets
+.env
+.env.*
+!.env.example
+
+# your real resumes (only the dummy data/resume.json is committed)
+data/*.json
+!data/resume.json
+data/sessions/
+
+# generated files / personal documents
+output/
+*.pdf
+*.docx
+
+# python
+venv/
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
